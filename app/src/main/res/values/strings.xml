@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home">Home</string>
+    <string name="btnselect">Select All</string>
+    <string name="btnadd">Add</string>
+    <string name="btnsign">Sign In</string>
+    <string name="btndelete">Delete</string>
+    <string name="btnupdate">Update</string>
+</resources>
